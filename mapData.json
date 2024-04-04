@@ -1,0 +1,10 @@
+{
+    "name": "biķernieki",
+    "center": { "lat": 56.978356, "lon": 24.206829 },
+    "dimensions": { "width": 1761, "height": 2001 },
+    "gridSize": { "rows": 8,  "cols": 7 },
+    "topLeft": { "lat": 56.98142589894053, "lon": 24.199619293212894 },
+    "bottomRight": { "lat": 56.96261958082579, "lon": 24.22313690185547 },
+    "angle": 7.0,
+    "timestamp": 1712225837
+}
