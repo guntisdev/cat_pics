@@ -1,0 +1,23 @@
+{"name":"smerlis","topLeft": {
+        "lat": 56.98752277206104,
+        "lon": 24.213130328725125
+    },
+    "topRight": {
+        "lat": 56.985613767474995,
+        "lon": 24.241652158693704
+    },
+    "bottomLeft": {
+        "lat": 56.97573479636959,
+        "lon": 24.210490318341822
+    },
+    "bottomRight": {
+        "lat": 56.97384872701696,
+        "lon": 24.239012148310405
+    },
+    "angle": 7,
+    "gridSize": {
+        "rows": 5,
+        "cols": 6
+    },
+    "center": { "lat": 56.979356, "lon": 24.2267829 },
+    "zoom": 15,"dimensions":{"width":1373,"height":1037},"tile":{"width":256,"height":256}}
